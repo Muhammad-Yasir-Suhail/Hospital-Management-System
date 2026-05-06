@@ -19,6 +19,10 @@ Desktop Hospital Management System built with Java 17, Swing, SQL Server, JDBC, 
 - `receptionist1` / `rec123`
 - `doctor1` / `doc123`
 
+## Screenshots
+<img width="1010" height="630" alt="image" src="https://github.com/user-attachments/assets/3205bb91-ecdc-41cb-8a58-97e3256e6344" />
+
+
 ## Project Structure
 - `src/com/hospital/main` - Application entry point
 - `src/com/hospital/model` - Data models
